@@ -4,3 +4,7 @@ Here's my personal list of useful / cool websites I've been collecting for a whi
 # Video Converters:
 
 - 8mb.video - Compresses videos down to 8mb or less, perfect for sending media to discord / other apps with a limit.
+
+# Editing Tools
+
+- photopea.com - A free online photoshop alternative which even supports .psd files
